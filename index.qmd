@@ -1,0 +1,62 @@
+---
+title: <br>
+lightbox: true
+title-block-banner: "files/images/test.png"
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position: right 60%;
+        height: 550px;
+      }
+      </style>
+pagetitle: "Research"
+toc: false
+about:
+  id: lab-overview
+  template: solana
+  image-width: 20em
+#page-layout: full
+---
+
+<!-- ::: {.column-screen} -->
+
+<!-- ::: -->
+
+<h2 style="text-align: center;">Thank you for checking out my website, where I strive to *conserve aquatic biodiversity in a changing world*</h2>
+
+<p style="text-align: center;">
+
+<p style="text-align: justify;">My primary focus concerns global change biology through examining impacts on marine-freshwater (diadromous) migrants, and the greater task of conserving environmental flows. I have a broad interest in natural history and conservation, and continue to be involved in research of freshwater invasions, the wildlife trade, and the systematics of East-Asian minnows and caridean shrimps. A core philosophy is making my work translatable to actionable policy, and I have undertaken regional assessments of conservation statuses for freshwater biodiversity with WWF Hong Kong and advised the Hong Kong Government's Biodiversity Strategy and Action Plan. I also believe there is a misalignment between research and education, and I attempt to bridge this through the conservation organization that I founded, [Freshwater Collective](https://www.freshwatercollective.org).</p>
+
+Read more about me [here](about.qmd).
+
+<br>
+
+## Recent work ##
+
+See the full list of my publications [here](publications.qmd).
+
+::: {layout-ncol=4}
+[![](files/images/BRV.png){height=232}](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.70032)
+Global consequences of dam-induced river fragmentation on diadromous migrants: a systematic review and meta-analysis
+<br>
+<br>Chan et al. (2025)
+
+[![](files/images/Hydrobiologia.webp)](https://link.springer.com/article/10.1007/s10750-025-05801-9)  
+Small dams fragment assemblages of diadromous and freshwater decapods in Hong Kong lowland streams
+<br>
+<br>Chan et al. (2025)
+
+[![](files/images/WWF.jpeg){height=232}](https://onlinelibrary.wiley.com/doi/full/10.1111/jfb.15812)
+The State of Hong Kong Biodiversity 2025. WWF-Hong Kong
+<br>
+<br>Or, C.K.M. & Chan, B.P.L. (Eds.) (2025)
+
+[![](files/images/BSAP.jpg){height=232}](https://onlinelibrary.wiley.com/doi/full/10.1111/jfb.15812)
+Hong Kong Biodiversity Strategy Action Plan: Recommendations to the Hong Kong SAR Government
+<br>
+<br>Hong Kong Biodiversity Expert Group (2024).
+
+
+:::

@@ -1,0 +1,26 @@
+---
+title: ""
+description-meta: "Reach out to me with questions and comments"
+title-block-banner: false
+
+---
+:::: {layout="[ 60,-2, 43 ]"}
+
+::: {#first-column}
+![](files/images/Stiphodon percnopterygionus.jpg)
+*Stiphodon percnopterygionus*, Hong Kong, Jeffery C.F. Chan
+:::
+
+::: {#second-column}
+<h2 style="text-align: left;">Have an idea you want to discuss?</h2>
+
+
+<left>
+
+<br>Jeffery C.F. Chan
+<br>PhD candidate
+<br>School of Biological Sciences
+<br>The University of Hong Kong
+<br>Address: 3N17, Kadoorie Biological Sciences Building
+<br>E-mail: jefferychan[at]connect.hku.hk
+<br>Outreach: [www.freshwatercollective.org](https://www.freshwatercollective.org)

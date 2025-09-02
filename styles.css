@@ -1,0 +1,22 @@
+/* css styles */
+.navbar {
+  background-image: url('files/images/Anguilla_marmorata.jpg');
+  background-size: cover;
+  background-position: right 24.5%;
+  height: 100px;
+  position: relative !important; /* change from absolute to fixed */
+  top: 0 !important;
+  width: 100% !important;
+  z-index: 1030 !important; /* typical Bootstrap navbar z-index */
+  transition: background-color 0.1s ease; /* optional smooth transition */
+}
+.navbar li.nav-item a.nav-link span {
+  color: #77aaff !important;
+}
+.site-title {
+    color: #77aaff; /* permanent color */
+}
+
+.site-title:hover {
+    color: #77aaff; /* same color or remove this block */
+}

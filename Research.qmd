@@ -1,0 +1,118 @@
+---
+title: "Research statement"
+description-meta: "About"
+image: ""
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+about:
+  id: lab-overview
+  template: solana
+  image-width: 20em
+#page-layout: full
+---
+
+<h4 style="text-align: justify;">The overarching goal of my research is to understand how anthropogenic environmental changes influence the movement of aquatic organisms within and beyond freshwater systems. Utilizing a combination of field-based techniques, genomic analyses, and meta-analyses, I have investigated the ecological consequences of flow alteration and impoundment on diadromous species. Building on these findings, my future research will employ time series analyses to quantify the historical, current, and projected impacts of human-induced environmental changes on migratory fish communities. Given the limited research on freshwater fishes and shrimps in my current setting (Hong Kong), I have also dedicated significant efforts to lay taxonomic groundwork and conservation initiatives.</h4>
+
+<br>
+
+:::: {layout="[ 60,-5, 40 ]"}
+
+::: {#first-column}
+<h2 style="text-align: left;">Global impacts of dams on diadromous migrants</h2>
+
+<p style="text-align: justify;">The global proliferation of dams has altered flow and sediment regimes in rivers, presenting a major threat to freshwater biodiversity. Diadromous species, such as fishes, decapod crustaceans and gastropods, are particularly susceptible to fragmentation because dams obstruct their breeding migrations between coastal waters and rivers. We conducted a systematic review and meta-analysis of 65 studies to evaluate dam impacts on diadromous fishes. Negative effects of fragmentation on abundance, species richness, assemblage composition, genetic diversity and population structure were widespread. Obligate migrants and poor climbers were more impacted, though facultative migrants and stronger climbers also experienced declines in abundance and reduced gene flow. Fish passage installations provided limited improvements in connectivity, while dam removal restored it. Dams on tropical rivers—rich in aquatic biodiversity—have received relatively little study, so global impacts on diadromous fishes may be underestimated. Where dam construction cannot be avoided, enhanced mitigation strategies, particularly improved fish passage designs, could help to reduce river-fragmentation impacts.</p>
+
+<br>**Related publications**
+
+<br>**Chan, J.C.F.**, Lam, B.Y.K., Dudgeon, D. & Liew\*, J.H. (2025). Global consequences of dam-induced river fragmentation on diadromous migrants: a systematic review and meta-analysis. *Biological Reviews*. \[[Link](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.70032)\] \[[PDF](https://www.researchgate.net/profile/Jeffery-Chan-5/publication/391536251_Global_consequences_of_dam-induced_river_fragmentation_on_diadromous_migrants_a_systematic_review_and_meta-analysis/links/681c512e60241d514025056f/Global-consequences-of-dam-induced-river-fragmentation-on-diadromous-migrants-a-systematic-review-and-meta-analysis.pdf)\]
+
+$$\\[0.1cm]$$
+
+:::
+
+::: {#second-column}
+![](files/images/Diadromous review_Figure 2.png)
+:::
+
+::::
+
+:::: {layout="[ 60,-5, 40 ]"layout-halign="top"}
+
+::: {#first-column}
+<h2 style="text-align: left;">Hong Kong: a diadromous hotspot under threat</h2>
+
+<p style="text-align: justify;">China has experienced substantial coastal reclamation and damming of rivers. These changes have the potential to impact migrations of diadromous species, including fishes and decapods, between the sea and fresh waters, but the composition of these species and the impacts of barriers to their movement in China have received little attention. We inventoried the diadromous fishes and decapods and assessed the impacts of fragmentation on species richness and assemblage structure in Hong Kong, southern China. The richenss of diadromous species was exceptional, with a tally of 32 and 13 species for fishes and decapods respectively. Small dams (0.3m-8.7m tall) had profound impacts on both species richness and assemblages, and showed that species were mostly confined to a mere 300m of habitat below dams causing depauperate and homogenous above-dam assemblages. Our findings underscore the need for improved knowledge of the diversity of diadromous animals in China and tropical East Asia, as well as better understanding of mitigation measures to improve dam passage by these animals.</p>
+
+<br>**Related publications**
+
+<br>**Chan, J.C.F.**, Liew, J.H. & Dudgeon\*, D. (2025). Small dams fragment assemblages of diadromous and freshwater decapods in Hong Kong lowland streams. *Hydrobiologia*, 852, 2871–2886 \[[Link](https://link.springer.com/article/10.1007/s10750-025-05801-9)\] \[[PDF](https://www.researchgate.net/profile/Jeffery-Chan-5/publication/388845696_Small_dams_fragment_assemblages_of_diadromous_and_freshwater_decapods_in_Hong_Kong_lowland_streams/links/67a9f121645ef274a4794a20/Small-dams-fragment-assemblages-of-diadromous-and-freshwater-decapods-in-Hong-Kong-lowland-streams.pdf)\]   
+
+<br>**Chan\*, J.C.F.**, Liew, J.H. & Dudgeon, D. (2024). High spatial variability in a species-rich assemblage of diadromous fishes in Hong Kong, southern China. *Journal of Fish Biology*, 105(3), 663–681 \[[Link](https://onlinelibrary.wiley.com/doi/full/10.1111/jfb.15812)\] \[[PDF](https://www.researchgate.net/profile/Jeffery-Chan-5/publication/381153528_High_spatial_variability_in_a_species-rich_assemblage_of_diadromous_fishes_in_Hong_Kong_southern_China/links/6662917fb769e769191d719f/High-spatial-variability-in-a-species-rich-assemblage-of-diadromous-fishes-in-Hong-Kong-southern-China.pdf)\]
+
+$$\\[0.1cm]$$
+
+
+:::
+
+::: {#second-column}
+<br>![](files/images/Decapod_compilation.png)
+
+<br>![](files/images/Decapod map.jpg)
+:::
+
+::::
+
+:::: {layout="[ 60,-5, 40 ]"}
+
+::: {#first-column}
+<h2 style="text-align: left;">Aquatic invasions and the wildlife trade</h2>
+
+<p style="text-align: justify;">Over the past two centuries, Hong Kong has transformed from a fishing port into a global metropolis, profoundly impacting its biodiversity. The city has experienced intense aquaculture phases and now centers on the wildlife trade. However, the local fish assemblage remains understudied. Before starting my PhD, I compiled records of non-native fish in Hong Kong using field surveys, citizen science data, and literature reviews, identifying 95 species and 5 hybrids—surpassing the ~70 native freshwater species. More than half of these non-native species have established breeding populations, indicating significant disruption of Hong Kong's freshwater ecosystems. Building on this, my graduate advisee [Samuel C.L. Ho](https://scholar.google.com/citations?user=-IP4ufAAAAAJ&hl=en) has led research on quantifying the ornamental fish trade, which is the primary invasion pathway in Hong Kong. Over 500 ornamental fish species have been recorded, with high invasion risk to local streams and reservoirs. Alarmingly, 16% of these species are suspected to be unassessed, and 38% are either not evaluated or listed as Data Deficient by the IUCN. The wildlife trade and invasive species problem are deeply connected. As a major international trading hub, Hong Kong is well positioned to lead by implementing origin disclosure laws and incentivizing sustainably sourced or captive-bred species in the trade.</p>
+
+<br>**Related publications** (<sup>#</sup> graduate student advisee led)
+
+<br>Ho\*<sup>#</sup>, S.C.L., **Chan, J.C.F.**, Lee, W.H., Sung, Y.H. & Liew\*, J.H. Highlighting the species diversity, pricing trends, and conservation concerns in a major ornamental fish hub. In revision at *Oryx*. \[[Preprint](https://www.biorxiv.org/content/10.1101/2025.02.20.639396v1.abstract)\]
+
+<br>**Chan\*, J.C.F.**, Tsang, A.H.F., Yau, S.-m., Hui, T.C.H., Lau, A., Tan, H.H., Low, B.W., Dudgeon, D & Liew J.H. (2023). The non-native freshwater fishes of Hong Kong: diversity, distributions,
+and origins. *Raffles Bulletin of Zoology*, 71, 128–168  \[[PDF](https://www.researchgate.net/profile/Jeffery-Chan-5/publication/368712633_The_non-native_freshwater_fishes_of_Hong_Kong_diversity_distributions_and_origins/links/63f649af0d98a97717ad57c2/The-non-native-freshwater-fishes-of-Hong-Kong-diversity-distributions-and-origins.pdf)\]
+
+$$\\[0.1cm]$$
+
+:::
+
+::: {#second-column}
+<br>![](files/images/Exotic_Compilation.jpg)
+
+<br>![](files/images/Ho_et_al_fishtrade.png)
+:::
+
+::::
+
+:::: {layout="[ 60,-5, 40 ]"}
+
+::: {#first-column}
+<h2 style="text-align: left;">Systematics of cryptic East-Asian freshwater fishes and shrimps</h2>
+
+<p style="text-align: justify;">The tropics host a vast majority of global biodiversity. Regions with numerous short and steep coastal streams and heterogeneous habitats such as Hong Kong give rise to many isolated populations. Like many surrounding areas, historical and current understanding of the local assemblage has been poorly cataloged, which has resulted in a swathe of misidentified cryptic species. Since 2020, I have been collaborating with [The Chinese University of Hong Kong](https://www.mmeelab.com/) and the [Lee Kong Chian Natural History Museum of Singapore](https://lkcnhm.nus.edu.sg/) to conduct field surveys and integrative taxonomy. Since then, we have described (or in the process of) four atyid shrimps, one amphidromous prawn, and one freshwater minnow. Additionally, we have made efforts to resolve the *Macrobrachium nipponense*, *Caridina serrata*, and *Parazacco spilurus* species complexes. Once our identified cryptic species are resolved, future research will focus on a comprehensive overview of all freshwater fishes and shrimps in the region. </p>
+
+<br>**Related publications**
+
+<br>**Chan\*, J.C.F.**, Low, B.W., Tan, H.H. & Liew\*, J.H. Species boundaries of the predaceous chub *Parazacco spilurus* (Xenocyprididae) and the description of a new cryptic species from southern China. In review at *Vertebrate Zoology*. \[[Unpublished manuscript](TBC)\]
+
+<br>Chow, L.H., **Chan, J.C.F.** & Tsang\*, L.M. Three new cryptic species of the genus *Caridina* (Decapoda:Caridea: Atyidae) from Hong Kong, with notes on the *C. serrata* species group. In review at *Zoological Studies*. \[[Unpublished manuscript](TBC)\]
+
+<br>Chow, L.H., **Chan, J.C.F.** & Tsang\*, L.M. (2024). *Caridina ngankeeae* sp. nov., a new species of freshwater shrimp (Decapoda: Caridea: Atyidae) from Hong Kong. *Zootaxa*, 5476(1), 44–50 \[[Link](https://mapress.com/zt/article/view/zootaxa.5476.1.7)\] \[[PDF](TBC)\]
+
+<br>Chow, L.H., **Chan, J.C.F.** & Tsang\*, L.M. (2022). A synopsis of *Macrobrachium* Spence Bate, 1868 (Decapoda: Caridea: Palaemonidae) from Hong Kong, with description of a new species. *Journal of Crustacean Biology*, 42(3), ruac039 \[[Link](https://academic.oup.com/jcb/article-abstract/42/3/ruac039/6656155)\] \[[PDF](TBC)\]
+
+:::
+
+::: {#second-column}
+<br>![](files/images/Parazacco_Figure.png)
+<br>![](files/images/Caridina_ngankeeae.png)
+<br>![](files/images/M_equidens_lantau.png)
+:::
+
+::::

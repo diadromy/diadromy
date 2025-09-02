@@ -1,0 +1,126 @@
+---
+title: ""
+description-meta: "About"
+image: ""
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+about:
+  id: lab-overview
+  template: solana
+  image-width: 20em
+#page-layout: full
+---
+
+:::: {layout="[ 60,-5, 40 ]"}
+
+::: {#first-column}
+<h2 style="text-align: left;">Public outreach initiatives</h2>
+
+<p style="text-align: justify;">The majority of my public outreach has been conducted through [Freshwater Collective](https://www.freshwatercollective.org), which is a conservation organization with the aim of bridging conservation, research and education of freshwater biodiversity. We focus on creating dynamic education materials such as field guides, short-films and mobile apps for all ages. Below are some examples of our initiatives. Please visit our website if you would like to know more. </p>
+
+$$\\[0.1cm]$$
+
+:::
+
+::: {#second-column .text-center}
+<br>[![](files/images/Logos/FWClogo.png){width="200px"}](https://www.freshwatercollective.org)
+:::
+
+
+::::
+
+:::: {layout="[ 60,-5, 40 ]"}
+
+::: {#first-column}
+<h2 style="text-align: left;">Pocket guide to freshwater species of Hong Kong</h2>
+
+<p style="text-align: justify;">《[Pocket Guide to Freshwater Species of Hong Kong](https://apps.apple.com/is/app/freshwater-species-hong-kong/id1540616520)》 is a collaborative project, working with various institutions, conservation organizations and local ecologists to create an informative and dynamic educational resource for the public to learn and appreciate our incredible freshwater biodiversity. We compiled 138 common and threatened freshwater-dwelling species in Hong Kong to promote the education and appreciation of freshwater biodiversity in Hong Kong. It was a major volunteer-based collaboration with: The University of Hong Kong, Lingnan University, Wildlife Avengers, HKdragonfly, Outdoor Wildlife Learning Hong Kong, as well as many indepedent ecologists, naturalists and wildlife photographers. </p>
+
+$$\\[0.1cm]$$
+
+:::
+
+::: {#second-column}
+<br>![](files/images/App_preview.avif)
+
+:::
+
+::::
+
+:::: {layout="[ 60,-5, 40 ]"}
+
+::: {#first-column}
+<h2 style="text-align: left;">Wildlife documentaries on freshwater biodiversity and illegal trade</h2>
+
+<p style="text-align: justify;">We have produced three short documentaries and a series of spotlight videos to educate the public on Hong Kong's local freshwater biodiversity and the poaching and illegal trade of freshwater turtles. To date, we have garnered a modest >35,000 viewership and have had the pleasure to host viewings in [Ocean Park](https://www.oceanpark.com.hk/en). All of our short films and spotlights can be found on our [Youtube channel](https://www.youtube.com/@FreshwaterCollective/videos). </p>
+
+$$\\[0.1cm]$$
+
+:::
+
+::: {#second-column}
+<br>![](files/images/Turtle_Film_FWC.jpg)
+:::
+
+::::
+
+:::: {layout="[ 60,-5, 40 ]"}
+
+::: {#first-column}
+<h2 style="text-align: left;">Hong Kong Freshwater Stream Ecology Course</h2>
+
+<p style="text-align: justify;">In 2020 we were invited to co-develop a [course](https://www.owlhk.org/en/ecology-training/freshwater-stream-ecology-course/0250001/Hong+Kong+Freshwater+Stream+Ecology+Course) on freshwater ecology with Outdoor Wildlife Learning Hong Kong. This was a hands-on course and involved intensive field work and species identification skills. </p>
+
+$$\\[0.1cm]$$
+
+:::
+
+::: {#second-column}
+<br>![](files/images/OWLHK course.avif)
+$$\\[0.1cm]$$
+:::
+
+::::
+
+:::: {layout="[ 60,-5, 40 ]"}
+
+::: {#first-column}
+<h2 style="text-align: left;">Identification guide to common diadromous species of Hong Kong</h2>
+
+<p style="text-align: justify;">The news of Hong Kong being a hotspot for diadromous biodiversity has been recent. To help educate the public and aid species identification for ecological surveyors, we created a free simple [database](https://www.freshwatercollective.org/species-database) on our website.</p>
+
+$$\\[0.1cm]$$
+
+:::
+
+::: {#second-column}
+<br>![](files/images/freshwaterdatabase.png)
+:::
+
+::::
+
+$$\\[0.1cm]$$
+<h2 style="text-align: center;">I have had the pleasure of collaborating with these organisations:</h2>
+
+::: {layout-ncol=5 .text-center}
+
+[![](files/images/Logos/hkulogo.jpg){width=100}](https://www.hku.hk/)
+
+[![](files/images/Logos/Lingnanlogo){width=100}](https://www.ln.edu.hk/)
+
+[![](files/images/Logos/wildlifeillustrationlogo.avif){width=100}](https://www.facebook.com/Wildlifeillustrations.hk/)
+
+[![](files/images/Logos/WWFlogo.jpg){width=110}](https://www.wwf.org.hk/en/)
+
+[![](files/images/Logos/hkdragonflylogo.avif){width=100}](https://en.hkdragonfly.com/)
+:::
+
+::: {layout-ncol=3 .text-center}
+
+[![](files/images/Logos/OWLHKlogo.avif){width=190}](https://www.owlhk.org/en/index)
+
+[![](files/images/Logos/AFCDlogo.avif){width=300}](https://www.afcd.gov.hk/english/index.html)
+
+[![](files/images/Logos/hkherplogo.avif){width=380}](https://en.hkherp.org.hk/home)

@@ -1,0 +1,97 @@
+---
+title: "Jeffery C.F. Chan"
+description-meta: "About"
+image: "files/images/Jeffery Chan.JPG"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+  #  - icon: sun
+  #    text: Lab
+   #   href: https://www.github.com
+    #  target: _blank
+    - icon: globe
+      text: Freshwater Collective
+      href: https://www.freshwatercollective.org
+      target: _blank
+    #- icon: 
+     # text: E-mail
+      #href: mailto:email@gmail.com    
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jeffery-chan-168058140/
+      target: _blank
+    #- icon: youtube
+     # text: YouTube
+     # href: https://youtu.be/DjPbrhvk10U?si=8z2ngOOfgS1YidD9     
+     # target: _blank 
+   # - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
+    #  href: https://orcid.org
+     # target: _blank
+    #- text: "{{< ai clarivate >}} Web of Science"
+     # href: https://www.webofscience.com  
+      #target: _blank
+    - text: "{{< fa brands bluesky >}} Bluesky" 
+      href: https://bsky.app/profile/diadromy.bsky.social
+      target: _blank
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=sZogAfUAAAAJ&hl=en
+      target: _blank
+    - text: "{{< ai researchgate >}} Research Gate"
+      href: https://www.researchgate.net/profile/Jeffery-Chan-5
+      target: _blank
+
+#listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+ # - id: recent-posts
+   # contents: 
+   #   - posts
+   #   - posts/post-links.yml
+   # exclude:
+   #   title: ""
+   # type: grid
+    #max-items: 3
+#    image-height: 150px
+  #  page-size: 3 #set same as max-times to remove the page number setting
+  #  fields: [image, date, title, subtitle]
+   # max-description-length: 75
+   # sort: 
+   #   - "date desc"
+    #  - "title asc"
+---
+
+:::{#hero-heading}
+
+<p style="text-align: justify;">Currently, I'm a final year PhD candidate at The University of Hong Kong working with [David Dudgeon](https://www.biosch.hku.hk/ecology/dd.htm) and [Jia Huan Liew](https://discover.utas.edu.au/JiaHuan.Liew) on the impacts of fragmentation by dams on diadromous species at global and regional scales. Previously, I received an MRes in Tropical Forest Ecology from Imperial College London examining  multiple-stressor interactions on ecosystem functioning using pond mesocosms with [Guy Woodward](https://profiles.imperial.ac.uk/guy.woodward) (I was landlocked during covid). Prior to my academic journey I founded [Freshwater Collective](https://www.freshwatercollective.org), a conservation organization with the aim of bridging the gap between research and education of freshwater ecology.</p> 
+
+My [Full CV](files/Jeffery Chan_CV_Sep2025.pdf)
+
+
+## Experience
+- 2019 – Present: Founder, [Freshwater Collective](https://www.freshwatercollective.org), Hong Kong
+- 2025 – 2025: Visiting Researcher, [National University of Singapore](https://blog.nus.edu.sg/fiblab/)
+- 2025 – 2025: Visiting Researcher, [Lee Kong Chian Natural History Museum](https://lkcnhm.nus.edu.sg/), Singapore
+- 2022 – 2025: Research Officer, [Lingnan University](https://www.ln.edu.hk/scienceunit), Hong Kong
+- 2021 – 2021: Technical Assistant, [The University of Hong Kong](https://www.hku.hk/)
+- 2020 – 2021: Research Associate, [Imperial College London](https://www.imperial.ac.uk/), United Kingdom
+- 2018 – 2020: Assistant Ecologist, [aec ltd. (now Aurecon Group)](https://www.aurecongroup.com/about/latest-news/2022/november/aec-acquisition-biodiversity-advisory), Hong Kong
+
+## Education
+- 2022 – Present: PhD, The University of Hong Kong
+- 2020 – 2021: MRes, Imperial College London
+- 2015 – 2019: BSc, The University of Hong Kong
+
+## Funding awarded
+- 2026 – 2028: Ecology and Conservation of Freshwater Eels in Lantau, [Lantau Conservation Fund](https://www.lcf.gov.hk/filemanager/content/conservation/RE-2024-11-ENG-ONLY.pdf) $1,496,500 HKD
+- 2022 – 2025: A comprehensive survey of the diadromous animals of Lantau: assessment of distribution, population status, and conservation strategies, [Lantau Conservation Fund](https://www.lcf.gov.hk/en/approved-projects/conservation-related-projects-2020.html#conservation-4) $1,785,000 HKD
+- 2022 – 2025: Postgraduate Scholarship, [The University of Hong Kong](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships) $912,000
+- 2024 – 2024: Conference Fund for Research Postgraduate Students, [The University of Hong Kong](https://www.rss.hku.hk/fund/conference-students)
+- 2021 – 2021: Mobile app development fund, [Outdoor Wildlife Learning Hong Kong](https://www.owlhk.org/en/index) $3,000 HKD
+
+
+:::
