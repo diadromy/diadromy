@@ -32,7 +32,7 @@ website:
   #page-navigation: true
   
   page-footer: 
-    right: "Built with {{< iconify fa-brands r-project >}} and [quarto](https://github.com/drganghe/quarto-academic-website-template)"
+    right: "Built with {{< iconify fa-brands r-project >}} and [quarto](https://github.com/diadromy/diadromy)"
     left: "Jeffery C.F. Chan &copy; <script>document.write(new Date().getFullYear())</script>" 
   
   #reader-mode: true
