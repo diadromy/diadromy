@@ -69,7 +69,7 @@ about:
 
 <p style="text-align: justify;">Currently, I'm a final year PhD candidate at The University of Hong Kong working with [David Dudgeon](https://www.biosch.hku.hk/ecology/dd.htm) and [Jia Huan Liew](https://discover.utas.edu.au/JiaHuan.Liew) on the impacts of fragmentation by dams on diadromous species at global and regional scales. Previously, I received an MRes in Tropical Forest Ecology from Imperial College London examining  multiple-stressor interactions on ecosystem functioning using pond mesocosms with [Guy Woodward](https://profiles.imperial.ac.uk/guy.woodward) (I was landlocked during covid). Prior to my academic journey I founded [Freshwater Collective](https://www.freshwatercollective.org), a conservation organization with the aim of bridging the gap between research and education of freshwater ecology.</p> 
 
-My [Full CV](files/Jeffery Chan_CV_Sep2025.pdf)
+My [Full CV](files/nsf-biosketch.pdf)
 
 
 ## Experience

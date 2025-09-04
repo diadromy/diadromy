@@ -13,7 +13,7 @@ about:
 #page-layout: full
 ---
 
-<h4 style="text-align: justify;">The overarching goal of my research is to understand how anthropogenic environmental changes influence the movement of aquatic organisms within and beyond freshwater systems. Utilizing a combination of field-based techniques, genomic analyses, and meta-analyses, I have investigated the ecological consequences of flow alteration and impoundment on diadromous species. Building on these findings, my future research will employ time series analyses to quantify the historical, current, and projected impacts of human-induced environmental changes on migratory fish communities. Given the limited research on freshwater fishes and shrimps in my current setting (Hong Kong), I have also dedicated significant efforts to lay taxonomic groundwork and conservation initiatives.</h4>
+<h4 style="text-align: justify;">The overarching goal of my research is to understand how anthropogenic environmental change influences the movement of aquatic organisms within and beyond freshwater systems. Utilizing a combination of field-based techniques, genomic analyses, and meta-analyses, I have investigated the consequences of flow alteration and impoundment on diadromous species. Building on these findings, my future research will employ time series analyses to quantify the historical, current, and projected impacts of human-induced environmental changes on migratory fish communities. Given the limited research on freshwater fishes and shrimps in my current setting (Hong Kong), I have also dedicated significant efforts to lay taxonomic groundwork and conservation initiatives.</h4>
 
 <br>
 
@@ -57,7 +57,7 @@ $$\\[0.1cm]$$
 :::
 
 ::: {#second-column}
-<br>![](files/images/Decapod_compilation.png)
+<br>![](files/images/Decapod_compilation.jpg)
 
 <br>![](files/images/Decapod map.jpg)
 :::
@@ -110,7 +110,7 @@ $$\\[0.1cm]$$
 :::
 
 ::: {#second-column}
-<br>![](files/images/Parazacco_Figure.png)
+<br>![](files/images/Parazacco_Figure.jpg)
 <br>![](files/images/Caridina_ngankeeae.png)
 <br>![](files/images/M_equidens_lantau.png)
 :::
