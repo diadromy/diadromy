@@ -31,9 +31,11 @@ img { /* Make images on mobile same size */
   flex: 1 1 auto;
 }
 @media (max-width: 600px) {
-  .quarto-title-block .quarto-title-banner {
-    height: 250px; /* shorter height for mobile */
-    background-position: center center; /* adjust as desired */
-    background-size: contain; /* or cover, depending on needed effect */
+  .page-container, .container, .content, .column-margin, .solana-template {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    box-sizing: border-box !important;
   }
 }
