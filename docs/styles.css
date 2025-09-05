@@ -30,8 +30,8 @@ img { /* Make images on mobile same size */
 .layout > div {
   flex: 1 1 auto;
 }
-.riv-background {
-  background-image: url("files/images/test.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
+/* Hide banner on screens narrower than 768px (common mobile breakpoint) */
+    @media (max-width: 768px) {
+      .quarto-title-block .quarto-title-banner {
+        display: none;
+      }
