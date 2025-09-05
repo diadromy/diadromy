@@ -23,15 +23,8 @@ img { /* Make images on mobile same size */
   margin-left: auto;
   margin-right: auto;
 }
-.layout {
-  display: flex;
-  gap: 20px;  /* equal padding between columns */
-}
-.layout > div {
-  flex: 1 1 auto;
-}
 /* Hide banner on screens narrower than 768px (common mobile breakpoint) */
     @media (max-width: 768px) {
-      .quarto-title-block .quarto-title-banner {
+      .title-block-banner {
         display: none;
       }
