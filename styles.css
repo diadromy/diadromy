@@ -30,12 +30,8 @@ img { /* Make images on mobile same size */
 .layout > div {
   flex: 1 1 auto;
 }
-@media (max-width: 600px) {
-  .page-container, .container, .content, .column-margin, .solana-template {
-    padding-left: 15px !important;
-    padding-right: 15px !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    box-sizing: border-box !important;
-  }
+.riv-background {
+  background-image: url("files/images/test.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
