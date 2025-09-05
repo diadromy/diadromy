@@ -30,16 +30,10 @@ img { /* Make images on mobile same size */
 .layout > div {
   flex: 1 1 auto;
 }
-include-in-header: /* remove banner from mobile */
-  - text: |
-      <style>
-      .quarto-title-block .quarto-title-banner {
-        background-position: right 60%;
-        height: 550px;
-      }
-      @media (max-width: 600px) {
-        .quarto-title-block .quarto-title-banner {
-          display: none !important;
-        }
-      }
-      </style>
+@media (max-width: 600px) {
+  .quarto-title-block .quarto-title-banner {
+    height: 250px; /* shorter height for mobile */
+    background-position: center center; /* adjust as desired */
+    background-size: contain; /* or cover, depending on needed effect */
+  }
+}
