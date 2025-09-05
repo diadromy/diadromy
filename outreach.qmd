@@ -25,7 +25,7 @@ $$\\[0.1cm]$$
 :::
 
 ::: {#second-column .text-center}
-<br>[![](files/images/Logos/FWClogo.png){width="200px"}](https://www.freshwatercollective.org)
+[![](files/images/Logos/FWClogo.png){width="200px"fig-align="center"}](https://www.freshwatercollective.org)
 :::
 
 

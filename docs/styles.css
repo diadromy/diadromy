@@ -16,8 +16,30 @@
 .site-title {
     color: #77aaff; /* permanent color */
 }
-img {
+img { /* Make images on mobile same size */
   max-width: 100%;
   height: auto;
   display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
+.layout {
+  display: flex;
+  gap: 20px;  /* equal padding between columns */
+}
+.layout > div {
+  flex: 1 1 auto;
+}
+include-in-header: /* remove banner from mobile */
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position: right 60%;
+        height: 550px;
+      }
+      @media (max-width: 600px) {
+        .quarto-title-block .quarto-title-banner {
+          display: none !important;
+        }
+      }
+      </style>
