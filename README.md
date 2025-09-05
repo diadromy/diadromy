@@ -1,7 +1,5 @@
 
-*This website was built on the backbone of a template by Dr. Gang He, which he has kindly provided freely*
-*I have kept this here as a resource for others who may be interested in my website design*
-*Good luck! - Jeffery C.F. Chan 2025*
+# This website was built on the backbone of a template by [Dr. Gang He](https://drganghe.github.io/quarto-academic-site-examples.html), which he has kindly provided freely. I have kept this here as a resource for others who may be interested in my website design. Good luck! - Jeffery C.F. Chan 2025
 
 # Quarto Academic Website Template
 
@@ -28,7 +26,3 @@ Welcome! This is a simple and customizable template for building your own academ
 - Install [Quarto](https://quarto.org/docs/get-started/)
 - Learn the basics from the [official Quarto documentation](https://quarto.org/docs/guide/)
 - Try publishing the site *before* making major changes to confirm it runs correctly
-
-## 📚 More Examples & Tips
-
-- [Quarto Academic Site Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html)

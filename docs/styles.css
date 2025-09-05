@@ -16,7 +16,8 @@
 .site-title {
     color: #77aaff; /* permanent color */
 }
-
-.site-title:hover {
-    color: #77aaff; /* same color or remove this block */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
