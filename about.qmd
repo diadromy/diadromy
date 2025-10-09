@@ -71,8 +71,13 @@ about:
 
 My [Full CV](files/Jeffery Chan_CV_Sep2025.pdf)
 
+## Education
+- 2022 – Present: PhD, The University of Hong Kong
+- 2020 – 2021: MRes, Imperial College London
+- 2015 – 2019: BSc, The University of Hong Kong
 
 ## Experience
+- From 2026: Postdoctoral Fellow, [UC Santa Barbara](https://www.ucsb.edu/) with [Rafael J.P. Schmitt](https://es.ucsb.edu/people/rafael-jp-schmitt), USA
 - 2019 – Present: Founder, [Freshwater Collective](https://www.freshwatercollective.org), Hong Kong
 - 2025 – 2025: Visiting Researcher, [National University of Singapore](https://blog.nus.edu.sg/fiblab/)
 - 2025 – 2025: Visiting Researcher, [Lee Kong Chian Natural History Museum](https://lkcnhm.nus.edu.sg/), Singapore
@@ -81,17 +86,7 @@ My [Full CV](files/Jeffery Chan_CV_Sep2025.pdf)
 - 2020 – 2021: Research Associate, [Imperial College London](https://www.imperial.ac.uk/), United Kingdom
 - 2018 – 2020: Assistant Ecologist, [aec ltd. (now Aurecon Group)](https://www.aurecongroup.com/about/latest-news/2022/november/aec-acquisition-biodiversity-advisory), Hong Kong
 
-## Education
-- 2022 – Present: PhD, The University of Hong Kong
-- 2020 – 2021: MRes, Imperial College London
-- 2015 – 2019: BSc, The University of Hong Kong
 
-## Funding awarded
-- 2026 – 2028: Ecology and Conservation of Freshwater Eels in Lantau, [Lantau Conservation Fund](https://www.lcf.gov.hk/filemanager/content/conservation/RE-2024-11-ENG-ONLY.pdf) $1,496,500 HKD
-- 2022 – 2025: A comprehensive survey of the diadromous animals of Lantau: assessment of distribution, population status, and conservation strategies, [Lantau Conservation Fund](https://www.lcf.gov.hk/en/approved-projects/conservation-related-projects-2020.html#conservation-4) $1,785,000 HKD
-- 2022 – 2025: Postgraduate Scholarship, [The University of Hong Kong](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships) $912,000
-- 2024 – 2024: Conference Fund for Research Postgraduate Students, [The University of Hong Kong](https://www.rss.hku.hk/fund/conference-students)
-- 2021 – 2021: Mobile app development fund, [Outdoor Wildlife Learning Hong Kong](https://www.owlhk.org/en/index) $3,000 HKD
 
 
 :::
