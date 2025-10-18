@@ -23,4 +23,5 @@ title-block-banner: false
 <br>The University of Hong Kong
 <br>Address: 3N17, Kadoorie Biological Sciences Building
 <br>E-mail: jefferychan[at]connect.hku.hk
+<br>Photography/sci-comm: [Instagram](https://www.instagram.com/scaly_scientist/)
 <br>Outreach: [www.freshwatercollective.org](https://www.freshwatercollective.org)
