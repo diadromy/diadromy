@@ -67,7 +67,7 @@ about:
 
 :::{#hero-heading}
 
-<p style="text-align: justify;">I am an incoming Postdoctoral Fellow at UC Santa Barbara with [Rafael J.P. Schmitt](https://es.ucsb.edu/people/rafael-jp-schmitt) from approx. Jan – Jun 2026. Currently, I'm a final year PhD candidate at The University of Hong Kong working with [David Dudgeon](https://www.biosch.hku.hk/ecology/dd.htm) and [Jia Huan Liew](https://discover.utas.edu.au/JiaHuan.Liew) on the impacts of fragmentation by dams on diadromous species at global and regional scales. Previously, I earned an MRes in Tropical Forest Ecology from Imperial College London examining  multiple-stressor interactions on ecosystem functioning using pond mesocosms with [Guy Woodward](https://profiles.imperial.ac.uk/guy.woodward) (I was landlocked during covid). Prior to my academic journey I founded [Freshwater Collective](https://www.freshwatercollective.org), a conservation organization with the aim of bridging the gap between research and education of freshwater ecology.</p> 
+<p style="text-align: justify;">I am a Postdoctoral Fellow at UC Santa Barbara, working with [Rafael J.P. Schmitt](https://es.ucsb.edu/people/rafael-jp-schmitt) and [Albert Ruhí](https://ruhilab.org/). Currently, I'm also awaiting my PhD defense at The University of Hong Kong, where I had the privilege of working with [David Dudgeon](https://www.biosch.hku.hk/ecology/dd.htm) and [Jia Huan Liew](https://discover.utas.edu.au/JiaHuan.Liew) on the impacts of fragmentation by dams on diadromous species at global and regional scales. Previously, I earned an MRes in Tropical Forest Ecology from Imperial College London examining  multiple-stressor interactions on ecosystem functioning using pond mesocosms (I was landlocked during covid). Prior to my academic journey I founded [Freshwater Collective](https://www.freshwatercollective.org), a conservation organization with the aim of bridging the gap between research and education of freshwater ecology.</p> 
 
 My [Full CV](files/Jeffery_Chan_CV_Oct2025.pdf)
 
@@ -77,7 +77,7 @@ My [Full CV](files/Jeffery_Chan_CV_Oct2025.pdf)
 - 2015 – 2019: BSc, The University of Hong Kong
 
 ## Experience
-- From 2026: Postdoctoral Fellow, [UC Santa Barbara](https://www.ucsb.edu/) with [Rafael J.P. Schmitt](https://es.ucsb.edu/people/rafael-jp-schmitt), USA
+- 2026 – Present: Postdoctoral Fellow, [UC Santa Barbara](https://www.ucsb.edu/), USA
 - 2019 – Present: Founder, [Freshwater Collective](https://www.freshwatercollective.org), Hong Kong
 - 2025 – 2025: Visiting Researcher, [National University of Singapore](https://blog.nus.edu.sg/fiblab/)
 - 2025 – 2025: Visiting Researcher, [Lee Kong Chian Natural History Museum](https://lkcnhm.nus.edu.sg/), Singapore
