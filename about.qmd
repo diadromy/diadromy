@@ -69,7 +69,7 @@ about:
 
 <p style="text-align: justify;">I am a Postdoctoral Fellow at UC Santa Barbara, working with [Rafael J.P. Schmitt](https://es.ucsb.edu/people/rafael-jp-schmitt) and [Albert Ruhí](https://ruhilab.org/). Currently, I'm also awaiting my PhD defense at The University of Hong Kong, where I had the privilege of working with [David Dudgeon](https://www.biosch.hku.hk/ecology/dd.htm) and [Jia Huan Liew](https://discover.utas.edu.au/JiaHuan.Liew) on the impacts of fragmentation by dams on diadromous species at global and regional scales. Previously, I earned an MRes in Tropical Forest Ecology from Imperial College London examining  multiple-stressor interactions on ecosystem functioning using pond mesocosms (I was landlocked during covid). Prior to my academic journey I founded [Freshwater Collective](https://www.freshwatercollective.org), a conservation organization with the aim of bridging the gap between research and education of freshwater ecology.</p> 
 
-My [Full CV](files/Jeffery_Chan_CV_Oct2025.pdf)
+My [Full CV](files/Jeffery_Chan_CV_Oct2025.pdf) (updated Oct 2025)
 
 ## Education
 - 2022 – Present: PhD, The University of Hong Kong
