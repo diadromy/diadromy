@@ -9,10 +9,12 @@ css: custom.css
 
 Most up to date list can be found on [Google Scholar](https://scholar.google.com/citations?user=sZogAfUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Jeffery-Chan-5). 
 
-Notes: \* corresponding author; <sup>#</sup> graduate student advisee led
+Notes: \* corresponding author(s); <sup>#</sup> graduate student advisee led
 
 
 ## Published/in press papers
+
+**9.** **Chan\*, J.C.F.**, Liew\*, J.H. & Dudgeon, D. Conservation of tropical and subtropical marine-freshwater migrants for ecosystem services. In press at ***Trends in Ecology & Evolution***.
 
 **8.** Ho\*<sup>#</sup>, S.C.L., **Chan, J.C.F.**, Lee, W.H., Sung, Y.H. & Liew\*, J.H. Highlighting the species diversity, pricing trends, and conservation concerns in a major ornamental fish hub. In press at ***Oryx***. \[[Preprint](https://www.biorxiv.org/content/10.1101/2025.02.20.639396v1.abstract)\]
 
@@ -32,8 +34,6 @@ and origins. ***Raffles Bulletin of Zoology***, 71, 128–168.  \[[PDF](https://
 **1.** Chow, L.H., **Chan, J.C.F.** & Tsang\*, L.M. (2022). A synopsis of *Macrobrachium* Spence Bate, 1868 (Decapoda: Caridea: Palaemonidae) from Hong Kong, with description of a new species. ***Journal of Crustacean Biology***, 42(3), ruac039. \[[Link](https://academic.oup.com/jcb/article-abstract/42/3/ruac039/6656155)\] \[[PDF](files/papers/Macrobrachium of Hong Kong.pdf)\]
 
 ## In revision/review/prep
-
-**Chan, J.C.F.**, Liew\*, J.H. & Dudgeon, D. Conservation of tropical and subtropical marine-freshwater migrants for ecosystem services. In revision at ***Trends in Ecology & Evolution***.
 
 **Chan\*, J.C.F.**, Low, B.W., Lau, A., Rheindt, F.E., Dudgeon, D. & Liew\*, J.H. Contrasting patterns of genetic isolation among amphidromous, landlocked, and non-migratory goby populations. In revision at ***Molecular Ecology***.
 
