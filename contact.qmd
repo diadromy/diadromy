@@ -18,10 +18,10 @@ title-block-banner: false
 <left>
 
 <br>Jeffery C.F. Chan
-<br>PhD candidate
-<br>School of Biological Sciences
-<br>The University of Hong Kong
-<br>Address: 3N17, Kadoorie Biological Sciences Building
-<br>E-mail: jefferychan[at]connect.hku.hk
+<br>Postdoctoral Scholar
+<br>Environmental Studies Program
+<br>University of California, Santa Barbara
+<br>Address: 4304, Bren Hall, Santa Barbara
+<br>E-mail: jcfchan[at]ucsb.edu
 <br>Photography/sci-comm: [Instagram](https://www.instagram.com/scaly_scientist/)
 <br>Outreach: [www.freshwatercollective.org](https://www.freshwatercollective.org)

@@ -67,7 +67,7 @@ about:
 
 :::{#hero-heading}
 
-<p style="text-align: justify;">I am a Postdoctoral Fellow at UC Santa Barbara, working with [Rafael J.P. Schmitt](https://es.ucsb.edu/people/rafael-jp-schmitt) on optimizing sustainable hydropower and riverine connectivity. In October 2026, I will be joining [Albert Ruhí](https://ruhilab.org/) at UC Berkeley as a [Croucher Fellow](https://croucher.org.hk/en/fellows-and-scholars/jeffery-chan?page=1) to investigate how extreme events are reshuffling diadromous fishes. Currently, I'm also awaiting my PhD defense at The University of Hong Kong, where I had the privilege of working with [David Dudgeon](https://www.biosch.hku.hk/ecology/dd.htm) and [Jia Huan Liew](https://discover.utas.edu.au/JiaHuan.Liew) on the impacts of fragmentation by dams on diadromous species at global and regional scales. Previously, I earned an MRes in Tropical Forest Ecology from Imperial College London examining  multiple-stressor interactions on ecosystem functioning using pond mesocosms (I was landlocked during covid). Prior to my academic journey I founded [Freshwater Collective](https://www.freshwatercollective.org), a conservation organization with the aim of bridging the gap between research and education of freshwater ecology.</p> 
+<p style="text-align: justify;">I am a Postdoctoral Scholar at UC Santa Barbara, working with [Rafael J.P. Schmitt](https://es.ucsb.edu/people/rafael-jp-schmitt) on optimizing sustainable hydropower and riverine connectivity. In October 2026, I will be joining [Albert Ruhí](https://ruhilab.org/) at UC Berkeley as a [Croucher Fellow](https://croucher.org.hk/en/fellows-and-scholars/jeffery-chan?page=1) to investigate how extreme events are reshuffling diadromous fishes. Currently, I'm also awaiting my PhD defense at The University of Hong Kong, where I had the privilege of working with [David Dudgeon](https://www.biosch.hku.hk/ecology/dd.htm) and [Jia Huan Liew](https://discover.utas.edu.au/JiaHuan.Liew) on the impacts of fragmentation by dams on diadromous species at global and regional scales. Previously, I earned an MRes in Tropical Forest Ecology from Imperial College London examining  multiple-stressor interactions on ecosystem functioning using pond mesocosms (I was landlocked during covid). Prior to my academic journey I founded [Freshwater Collective](https://www.freshwatercollective.org), a conservation organization with the aim of bridging the gap between research and education of freshwater ecology.</p> 
 
 My [Full CV](files/Jeffery_Chan_CV_Mar2026.pdf) (updated Mar 2026)
 
@@ -76,10 +76,13 @@ My [Full CV](files/Jeffery_Chan_CV_Mar2026.pdf) (updated Mar 2026)
 - 2020 – 2021: MRes, Imperial College London
 - 2015 – 2019: BSc, The University of Hong Kong
 
-## Experience
-- 2026 – Present: Postdoctoral Fellow, [UC Santa Barbara](https://www.ucsb.edu/), USA
+## Current appointments
 - From Oct 2026:  Croucher Fellow, [UC Berkeley](https://www.berkeley.edu/), USA
+- 2026 – Present: Postdoctoral Scholar, [UC Santa Barbara](https://www.ucsb.edu/), USA
+- 2026 – Present: Affiliated Fellow, [Lingnan University](https://www.ln.edu.hk/scienceunit), Hong Kong 
 - 2019 – Present: Founder, [Freshwater Collective](https://www.freshwatercollective.org), Hong Kong
+
+## Experience
 - 2025 – 2025: Visiting Researcher, [National University of Singapore](https://blog.nus.edu.sg/fiblab/)
 - 2025 – 2025: Visiting Researcher, [Lee Kong Chian Natural History Museum](https://lkcnhm.nus.edu.sg/), Singapore
 - 2022 – 2025: Research Officer, [Lingnan University](https://www.ln.edu.hk/scienceunit), Hong Kong
