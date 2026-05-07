@@ -38,6 +38,11 @@ Read more about me [here](about.qmd).
 See the full list of my publications [here](publications.qmd).
 
 ::: {layout-ncol=4}
+[![](files/images/tree.jpg){height=232}](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(26)00048-0)
+Conservation of tropical and subtropical marine-freshwater migrants for ecosystem services
+<br>
+<br>Chan et al. (2026)
+
 [![](files/images/BRV.png){height=232}](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.70032)
 Global consequences of dam-induced river fragmentation on diadromous migrants: a systematic review and meta-analysis
 <br>
@@ -52,11 +57,6 @@ Small dams fragment assemblages of diadromous and freshwater decapods in Hong Ko
 The State of Hong Kong Biodiversity 2025. WWF-Hong Kong
 <br>
 <br>Or, C.K.M. & Chan, B.P.L. (Eds.) (2025)
-
-[![](files/images/BSAP.jpg){height=232}](https://www.admcf.org/wp-content/uploads/2025/01/BSAP-2025-HKBEG-Final-Report-20.11.2024-1.pdf)
-Hong Kong Biodiversity Strategy Action Plan: Recommendations to the Hong Kong SAR Government
-<br>
-<br>Hong Kong Biodiversity Expert Group (2024).
 
 
 :::

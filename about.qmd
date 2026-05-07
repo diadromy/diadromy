@@ -1,7 +1,7 @@
 ---
 title: "Jeffery C.F. Chan"
 description-meta: "About"
-image: "files/images/Jeffery Chan.JPG"
+image: "files/images/Jeffery Chan 4.JPG"
 page-navigation: false
 toc: false
 #sidebar: false
