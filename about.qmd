@@ -73,16 +73,16 @@ about:
 
 My [Full CV](files/Jeffery_Chan_CV_Mar2026.pdf) (updated Mar 2026)
 
-## Education
-- 2022 – 2026: PhD, The University of Hong Kong
-- 2020 – 2021: MRes, Imperial College London
-- 2015 – 2019: BSc, The University of Hong Kong
-
 ## Current appointments
 - From Oct 2026:  Croucher Fellow, [UC Berkeley](https://www.berkeley.edu/), USA
 - 2026 – Present: Postdoctoral Scholar, [UC Santa Barbara](https://www.ucsb.edu/), USA
 - 2026 – Present: Affiliated Fellow, [Lingnan University](https://www.ln.edu.hk/scienceunit), Hong Kong 
 - 2019 – Present: Founder, [Freshwater Collective](https://www.freshwatercollective.org), Hong Kong
+
+## Education
+- 2022 – 2026: PhD, The University of Hong Kong
+- 2020 – 2021: MRes, Imperial College London
+- 2015 – 2019: BSc, The University of Hong Kong
 
 ## Experience
 - 2025 – 2025: Visiting Researcher, [National University of Singapore](https://blog.nus.edu.sg/fiblab/)

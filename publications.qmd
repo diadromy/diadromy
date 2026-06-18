@@ -7,39 +7,47 @@ title-block-banner: false
 css: custom.css
 ---
 
+<style>
+a {
+  color: #325999;
+  text-decoration: underline; /* optional, keeps underline */
+}
+</style>
+
 Most up to date list can be found on [Google Scholar](https://scholar.google.com/citations?user=sZogAfUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Jeffery-Chan-5). 
 
 Notes: \* corresponding author(s); <sup>#</sup> graduate student advisee led
 
 
 ## Published/in press papers
+**9.** **Chan\*, J.C.F.**, Liew\*, J.H. & Dudgeon, D. (2026). [Conservation of tropical and subtropical marine-freshwater migrants for ecosystem services](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(26)00048-0). ***Trends in Ecology & Evolution***, 41(5), 369–372.  
 
-**9.** **Chan\*, J.C.F.**, Liew\*, J.H. & Dudgeon, D. (2026). Conservation of tropical and subtropical marine-freshwater migrants for ecosystem services. ***Trends in Ecology & Evolution***. \[[Link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(26)00048-0)\] \[[PDF](https://www.researchgate.net/publication/402960235_Conservation_of_tropical_and_subtropical_marine-freshwater_migrants_for_ecosystem_services.pdf)\]  
+**8.** Ho\*<sup>#</sup>, S.C.L., **Chan, J.C.F.**, Lee, W.H., Sung, Y.H. & Liew\*, J.H. (2026) [Highlighting the species diversity, pricing trends, and conservation concerns in a major ornamental fish hub](https://www.cambridge.org/core/journals/oryx/article/species-diversity-pricing-trends-and-conservation-concerns-in-a-major-ornamental-fish-hub/A727B6FE4C85D5DDA4F4A5014F84CF47). ***Oryx***.
 
-**8.** Ho\*<sup>#</sup>, S.C.L., **Chan, J.C.F.**, Lee, W.H., Sung, Y.H. & Liew\*, J.H. Highlighting the species diversity, pricing trends, and conservation concerns in a major ornamental fish hub. In press at ***Oryx***. \[[Preprint](https://www.biorxiv.org/content/10.1101/2025.02.20.639396v1.abstract)\]
+**7.** Chow, L.H., **Chan, J.C.F.**, Leung, J.H.C. & Tsang\*, L.M. (2026). [Three new cryptic species of the genus *Caridina* (Decapoda:Caridea: Atyidae) from Hong Kong, with notes on the *C. serrata* species group](https://zoolstud.sinica.edu.tw/issue2.php?Vol=65&no=04). ***Zoological Studies***, 65(4).
 
-**7.** Chow, L.H., **Chan, J.C.F.**, Leung, J.H.C. & Tsang\*, L.M. (2026). Three new cryptic species of the genus *Caridina* (Decapoda:Caridea: Atyidae) from Hong Kong, with notes on the *C. serrata* species group. ***Zoological Studies***, 65(4). \[[Link](https://zoolstud.sinica.edu.tw/issue2.php?Vol=65&no=04)\]
+**6.** **Chan, J.C.F.**, Lam, B.Y.K., Dudgeon, D. & Liew\*, J.H. (2025). [Global consequences of dam-induced river fragmentation on diadromous migrants: a systematic review and meta-analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.70032). ***Biological Reviews***, 100(5), 2020-2037.
 
-**6.** **Chan, J.C.F.**, Lam, B.Y.K., Dudgeon, D. & Liew\*, J.H. (2025). Global consequences of dam-induced river fragmentation on diadromous migrants: a systematic review and meta-analysis. ***Biological Reviews***, 100(5), 2020-2037. \[[Link](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.70032)\] \[[PDF](https://www.researchgate.net/profile/Jeffery-Chan-5/publication/391536251_Global_consequences_of_dam-induced_river_fragmentation_on_diadromous_migrants_a_systematic_review_and_meta-analysis/links/681c512e60241d514025056f/Global-consequences-of-dam-induced-river-fragmentation-on-diadromous-migrants-a-systematic-review-and-meta-analysis.pdf)\]   
+**5.** **Chan, J.C.F.**, Liew, J.H. & Dudgeon\*, D. (2025). [Small dams fragment assemblages of diadromous and freshwater decapods in Hong Kong lowland streams](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.70032). ***Hydrobiologia***, 852, 2871–2886. 
 
-**5.** **Chan, J.C.F.**, Liew, J.H. & Dudgeon\*, D. (2025). Small dams fragment assemblages of diadromous and freshwater decapods in Hong Kong lowland streams. ***Hydrobiologia***, 852, 2871–2886. \[[Link](https://link.springer.com/article/10.1007/s10750-025-05801-9)\] \[[PDF](https://www.researchgate.net/profile/Jeffery-Chan-5/publication/388845696_Small_dams_fragment_assemblages_of_diadromous_and_freshwater_decapods_in_Hong_Kong_lowland_streams/links/67a9f121645ef274a4794a20/Small-dams-fragment-assemblages-of-diadromous-and-freshwater-decapods-in-Hong-Kong-lowland-streams.pdf)\]   
+**4.** **Chan\*, J.C.F.**, Liew, J.H. & Dudgeon, D. (2024). [High spatial variability in a species-rich assemblage of diadromous fishes in Hong Kong, southern China](https://onlinelibrary.wiley.com/doi/full/10.1111/jfb.15812). ***Journal of Fish Biology***, 105(3), 663–681.
 
-**4.** **Chan\*, J.C.F.**, Liew, J.H. & Dudgeon, D. (2024). High spatial variability in a species-rich assemblage of diadromous fishes in Hong Kong, southern China. ***Journal of Fish Biology***, 105(3), 663–681. \[[Link](https://onlinelibrary.wiley.com/doi/full/10.1111/jfb.15812)\] \[[PDF](https://www.researchgate.net/profile/Jeffery-Chan-5/publication/381153528_High_spatial_variability_in_a_species-rich_assemblage_of_diadromous_fishes_in_Hong_Kong_southern_China/links/6662917fb769e769191d719f/High-spatial-variability-in-a-species-rich-assemblage-of-diadromous-fishes-in-Hong-Kong-southern-China.pdf)\]
+**3.** Chow, L.H., **Chan, J.C.F.** & Tsang\*, L.M. (2024). [*Caridina ngankeeae* sp. nov., a new species of freshwater shrimp (Decapoda: Caridea: Atyidae) from Hong Kong](https://mapress.com/zt/article/view/zootaxa.5476.1.7). ***Zootaxa***, 5476(1), 44–50.
 
-**3.** Chow, L.H., **Chan, J.C.F.** & Tsang\*, L.M. (2024). *Caridina ngankeeae* sp. nov., a new species of freshwater shrimp (Decapoda: Caridea: Atyidae) from Hong Kong. ***Zootaxa***, 5476(1), 44–50. \[[Link](https://mapress.com/zt/article/view/zootaxa.5476.1.7)\]
+**2.** **Chan\*, J.C.F.**, Tsang, A.H.F., Yau, S.-m., Hui, T.C.H., Lau, A., Tan, H.H., Low, B.W., Dudgeon, D & Liew J.H. (2023). [The non-native freshwater fishes of Hong Kong: diversity, distributions,
+and origins](https://www.researchgate.net/profile/Jeffery-Chan-5/publication/368712633_The_non-native_freshwater_fishes_of_Hong_Kong_diversity_distributions_and_origins/links/63f649af0d98a97717ad57c2/The-non-native-freshwater-fishes-of-Hong-Kong-diversity-distributions-and-origins.pdf). ***Raffles Bulletin of Zoology***, 71, 128–168.
 
-**2.** **Chan\*, J.C.F.**, Tsang, A.H.F., Yau, S.-m., Hui, T.C.H., Lau, A., Tan, H.H., Low, B.W., Dudgeon, D & Liew J.H. (2023). The non-native freshwater fishes of Hong Kong: diversity, distributions,
-and origins. ***Raffles Bulletin of Zoology***, 71, 128–168.  \[[PDF](https://www.researchgate.net/profile/Jeffery-Chan-5/publication/368712633_The_non-native_freshwater_fishes_of_Hong_Kong_diversity_distributions_and_origins/links/63f649af0d98a97717ad57c2/The-non-native-freshwater-fishes-of-Hong-Kong-diversity-distributions-and-origins.pdf)\]
-
-**1.** Chow, L.H., **Chan, J.C.F.** & Tsang\*, L.M. (2022). A synopsis of *Macrobrachium* Spence Bate, 1868 (Decapoda: Caridea: Palaemonidae) from Hong Kong, with description of a new species. ***Journal of Crustacean Biology***, 42(3), ruac039. \[[Link](https://academic.oup.com/jcb/article-abstract/42/3/ruac039/6656155)\] \[[PDF](files/papers/Macrobrachium of Hong Kong.pdf)\]
+**1.** Chow, L.H., **Chan, J.C.F.** & Tsang\*, L.M. (2022). [A synopsis of *Macrobrachium* Spence Bate, 1868 (Decapoda: Caridea: Palaemonidae) from Hong Kong, with description of a new species](https://academic.oup.com/jcb/article-abstract/42/3/ruac039/6656155). ***Journal of Crustacean Biology***, 42(3), ruac039.
 
 ## In revision/review/prep
 
 **Chan\*, J.C.F.**, Low, B.W., Lau, A., Rheindt, F.E., Dudgeon, D. & Liew\*, J.H. Contrasting patterns of genetic isolation among amphidromous, landlocked, and non-migratory goby populations. In revision at ***Molecular Ecology***.
 
+Almeida, R.M., Arantes, C.C., Bhattarai, S., Bunnak, P., Cardoso, S.J., **Chan, J.C.F.**, Kamal Chowdhury, A.F.M., Del Claro, A.T.S., Doria, C.R.C., Fluet-Chouinard, E., Galelli, S., Garrett, K., Heilpern, S., Herrera-R, G.A., Kelman, R., Kennedy, K.D.M., Knaus, M., Laufer, J., Li, Z., McIntyre, P.B., McManamay, R.A., Miqueleiz, I., Miranda, M., Opperman, J.J., Pacheco, F.S., Schmitt, R.J.P., Sethi, S.A., Thomas, S., Upadhyay, Y., Valerio, A., Wild, T.B., Wilcox, A., Zec, M., Gomes, C.P., Flecker, A.S. Decoupling hydropower growth from adverse impacts on river systems. In revision at ***Nature Reviews Clean Technology***.
+
 **Chan\*, J.C.F.**, Low, B.W., Tan, H.H. & Liew\*, J.H. Species boundaries of the predaceous chub *Parazacco spilurus* (Xenocyprididae) and the description of a new cryptic species from southern China. In review at ***Vertebrate Zoology***.
 
-Almeida, R.M., Arantes, C.C., Bhattarai, S., Bunnak, P., Cardoso, S.J., **Chan, J.C.F.**, Kamal Chowdhury, A.F.M., Del Claro, A.T.S., Doria, C.R.C., Fluet-Chouinard, E., Galelli, S., Garrett, K., Heilpern, S., Herrera-R, G.A., Kelman, R., Kennedy, K.D.M., Knaus, M., Laufer, J., Li, Z., McIntyre, P.B., McManamay, R.A., Miqueleiz, I., Miranda, M., Opperman, J.J., Pacheco, F.S., Schmitt, R.J.P., Sethi, S.A., Thomas, S., Upadhyay, Y., Valerio, A., Wild, T.B., Wilcox, A., Zec, M., Gomes, C.P., Flecker, A.S. Decoupling hydropower growth from adverse impacts on river systems. In review at ***Nature Reviews Clean Technology***.
+Lam, V.W.Y., Lee, V., Palomores, M.L.D., Pauly, D., ... **Chan, J.C.F.** ... A stone soup approach for freshwater fisheries data integration in Asia. In prep. 
 
 **Chan\*, J.C.F.**, Lin, B.A., Ying, C., Liew, J.H. & Dudgeon, D. A century of population declines and genetic attrition of a commercial migratory fish (*Plecoglossus altivelis altivelis*: Plecoglossidae) across China. In prep.
 
@@ -51,14 +59,14 @@ Lam\*, B.Y.K., **Chan, J.C.F**. & Liew*, J.H. A novel structural enhancement imp
 
 
 ## Technical reports
-Or, C.K.M. & Chan, B.P.L. (Eds.) .(2025). The State of Hong Kong
-Biodiversity 2025. WWF-Hong Kong. [[Link](https://www.wwf.org.hk/en/biodiversity/hkbiodiversity2025/)\] [[PDF](https://wwfhk.awsassets.panda.org/downloads/the-state-of-hong-kong-biodiversity-2025.pdf/)\]
+Or, C.K.M. & Chan, B.P.L. (Eds.) .(2025). [The State of Hong Kong
+Biodiversity 2025](https://wwfhk.awsassets.panda.org/downloads/the-state-of-hong-kong-biodiversity-2025.pdf). WWF-Hong Kong.
 
-WWF-Hong Kong. (2025). Hong Kong Terrestrial Biodiversity Hotspot Map. WWF-Hong Kong. [[Link](https://www.wwf.org.hk/en/biodiversity/hkbiodiversity2025/)\] [[PDF](https://wwfhk.awsassets.panda.org/downloads/hong-kong-terrestrial-biodiversity-hotspot-map-2025.pdf)\]
+WWF-Hong Kong. (2025). [Hong Kong Terrestrial Biodiversity Hotspot Map. WWF-Hong Kong](https://wwfhk.awsassets.panda.org/downloads/hong-kong-terrestrial-biodiversity-hotspot-map-2025.pdf).
 
-Hong Kong Biodiversity Expert Group. (2024). Recommendations to the Hong Kong SAR
-Government for the Biodiversity Strategy and Action Plan (BSAP) 2025–2035. ADM Capital
-Foundation, Hong Kong. [[Link](https://www.admcf.org/research-admcf/hong-kong-biodiversity-strategy-action-plan-recommendations-to-the-hong-kong-sar-government/)\] [[PDF](https://www.admcf.org/wp-content/uploads/2025/01/BSAP-2025-HKBEG-Final-Report-20.11.2024-1.pdf/)\]
+Hong Kong Biodiversity Expert Group. (2024). [Recommendations to the Hong Kong SAR
+Government for the Biodiversity Strategy and Action Plan (BSAP) 2025–2035](https://www.admcf.org/wp-content/uploads/2025/01/BSAP-2025-HKBEG-Final-Report-20.11.2024-1.pdf/). ADM Capital
+Foundation, Hong Kong.
 
 ## Mobile apps
 Freshwater Collective. (2021). Pocket Guide to the Freshwater Species of Hong Kong. [[Apple Store](https://apps.apple.com/is/app/freshwater-species-hong-kong/id1540616520)\]  [[SCMP press release](https://www.scmp.com/magazines/post-magazine/short-reads/article/3112412/quick-guide-hong-kongs-freshwater-animals-app?module=perpetual_scroll_0&pgtype=article)\] [[HKFP press release](https://hongkongfp.com/2020/11/30/now-streaming-an-app-guide-to-the-unique-wildlife-in-hong-kong-waterways/)\]
