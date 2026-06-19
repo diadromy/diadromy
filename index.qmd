@@ -23,7 +23,7 @@ about:
 
 <!-- ::: -->
 
-<h2 style="text-align: center;">Thank you for checking out my website, where I strive to *conserve aquatic biodiversity in a changing world*</h2>
+<h2 style="text-align: center;">Thank you for checking out my website, where I strive to *conserve aquatic biodiversity from mountain to sea*</h2>
 
 <p style="text-align: center;">
 
@@ -33,24 +33,28 @@ Read more about me [here](about.qmd).
 
 <br>
 
+![](files/images/Fieldwork in Tung Chung.jpg)
+
+<br>
+
 ## News ##
 
-<div style="background-color: #f0f0f0; padding: 10px; max-height: 300px; overflow-y: auto;">
+<div style="background-color: #f0f0f0; padding: 12px; max-height: 300px; overflow-y: auto; text-align: justify;">
 ::: scrolling
 **June 2026 » Feature article of my diadromous journey (and TREE article).** Croucher News Team wrote up a brilliant [article](https://croucher.org.hk/en/news/the-tropical-migrants-that-conservation-forgot) on the importance of diadromous migrants, why those in the tropics need our help, and my conservation journey with them. I should use it as a self-introduction from now on! 
 
 **May 2026 » I successfully defended my PhD!** I flew back to Hong Kong for a week-long whirlwind to complete my PhD on May 13th. 
 
-**February 2026 » I'm an inaugural Croucher Fellow at Berkeley!** After one of the most stressful 24 hours of my life, I'm ecstatic to announce that I was selected to be a Croucher Fellow, where I will be working with [Albert Ruhí](https://ruhilab.org/) to investigate how extreme events are reshuffling diadromous fishes at UC Berkeley! My interview was just before my flight and I found out in mid-air.
+**February 2026 » I'm an incoming Croucher Fellow at UC Berkeley!** After one of the most stressful 24 hours of my life, I'm ecstatic to announce that I was selected to be a Croucher Fellow, where I'll be working with [Albert Ruhí](https://ruhilab.org/) to investigate how extreme events are reshuffling diadromous fishes! I'll be joining Albert at UC Berkeley after my stint at UCSB in October 2026. My interview was hours before my flight to California and I received the news just as my plane took off...
 
-**February 2026 » My US journey begins!** After months of navigating a tricky visa and graduation timing situation, I've finally made it to California to start my Postdoc with [Rafael J.P. Schmitt](https://es.ucsb.edu/people/rafael-jp-schmitt) at UCSB!  
+**February 2026 » My US journey begins!** After months of navigating a tricky visa and graduation timing (working before PhD defense) situation, I've finally made it to California to start my Postdoc with [Rafael J.P. Schmitt](https://es.ucsb.edu/people/rafael-jp-schmitt) at UC Santa Barbara! 
 :::
 </div>
 
 <br>
 
 
-## Recent work ##
+## Featured work ##
 
 See the full list of my publications [here](publications.qmd).
 

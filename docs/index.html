@@ -38,6 +38,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-393fd0ccd8a968a17465e1bfbf9ef3c2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -140,7 +143,7 @@ background-size: cover;
 <!-- ::: {.column-screen} -->
 <!-- ::: -->
 <h2 style="text-align: center;">
-Thank you for checking out my website, where I strive to <em>conserve aquatic biodiversity in a changing world</em>
+Thank you for checking out my website, where I strive to <em>conserve aquatic biodiversity from mountain to sea</em>
 </h2>
 <p style="text-align: center;">
 </p><p style="text-align: justify;">
@@ -148,20 +151,22 @@ Using field, modelling, and genetic approaches, I strive to advance the understa
 </p>
 <p>Read more about me <a href="./about.html">here</a>.</p>
 <p><br></p>
+<p><a href="files/images/Fieldwork in Tung Chung.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="files/images/Fieldwork in Tung Chung.jpg" class="img-fluid"></a></p>
+<p><br></p>
 <section id="news" class="level2">
 <h2 data-anchor-id="news">News</h2>
-<div style="background-color: #f0f0f0; padding: 10px; max-height: 300px; overflow-y: auto;">
+<div style="background-color: #f0f0f0; padding: 12px; max-height: 300px; overflow-y: auto; text-align: justify;">
 <div class="scrolling">
 <p><strong>June 2026 » Feature article of my diadromous journey (and TREE article).</strong> Croucher News Team wrote up a brilliant <a href="https://croucher.org.hk/en/news/the-tropical-migrants-that-conservation-forgot">article</a> on the importance of diadromous migrants, why those in the tropics need our help, and my conservation journey with them. I should use it as a self-introduction from now on!</p>
 <p><strong>May 2026 » I successfully defended my PhD!</strong> I flew back to Hong Kong for a week-long whirlwind to complete my PhD on May 13th.</p>
-<p><strong>February 2026 » I’m an inaugural Croucher Fellow at Berkeley!</strong> After one of the most stressful 24 hours of my life, I’m ecstatic to announce that I was selected to be a Croucher Fellow, where I will be working with <a href="https://ruhilab.org/">Albert Ruhí</a> to investigate how extreme events are reshuffling diadromous fishes at UC Berkeley! My interview was just before my flight and I found out in mid-air.</p>
-<p><strong>February 2026 » My US journey begins!</strong> After months of navigating a tricky visa and graduation timing situation, I’ve finally made it to California to start my Postdoc with <a href="https://es.ucsb.edu/people/rafael-jp-schmitt">Rafael J.P. Schmitt</a> at UCSB!</p>
+<p><strong>February 2026 » I’m an incoming Croucher Fellow at UC Berkeley!</strong> After one of the most stressful 24 hours of my life, I’m ecstatic to announce that I was selected to be a Croucher Fellow, where I’ll be working with <a href="https://ruhilab.org/">Albert Ruhí</a> to investigate how extreme events are reshuffling diadromous fishes! I’ll be joining Albert at UC Berkeley after my stint at UCSB in October 2026. My interview was hours before my flight to California and I received the news just as my plane took off…</p>
+<p><strong>February 2026 » My US journey begins!</strong> After months of navigating a tricky visa and graduation timing (working before PhD defense) situation, I’ve finally made it to California to start my Postdoc with <a href="https://es.ucsb.edu/people/rafael-jp-schmitt">Rafael J.P. Schmitt</a> at UC Santa Barbara!</p>
 </div>
 </div>
 <p><br></p>
 </section>
-<section id="recent-work" class="level2">
-<h2 data-anchor-id="recent-work">Recent work</h2>
+<section id="featured-work" class="level2">
+<h2 data-anchor-id="featured-work">Featured work</h2>
 <p>See the full list of my publications <a href="./publications.html">here</a>.</p>
 <div class="quarto-layout-panel" data-layout-ncol="4">
 <div class="quarto-layout-row">
@@ -600,6 +605,38 @@ Jeffery C.F. Chan ©
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

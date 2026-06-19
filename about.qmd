@@ -47,52 +47,26 @@ about:
       href: https://www.researchgate.net/profile/Jeffery-Chan-5
       target: _blank
 
-#listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
- # - id: recent-posts
-   # contents: 
-   #   - posts
-   #   - posts/post-links.yml
-   # exclude:
-   #   title: ""
-   # type: grid
-    #max-items: 3
-#    image-height: 150px
-  #  page-size: 3 #set same as max-times to remove the page number setting
-  #  fields: [image, date, title, subtitle]
-   # max-description-length: 75
-   # sort: 
-   #   - "date desc"
-    #  - "title asc"
 ---
 
 :::{#hero-heading}
 
-<p style="text-align: justify;">I am a Postdoctoral Scholar at UC Santa Barbara, working with [Rafael J.P. Schmitt](https://es.ucsb.edu/people/rafael-jp-schmitt) on optimizing sustainable hydropower and riverine connectivity. In October 2026, I will be joining [Albert Ruhí](https://ruhilab.org/) at UC Berkeley as a [Croucher Fellow](https://croucher.org.hk/en/fellows-and-scholars/jeffery-chan?page=1) to investigate how extreme events are reshuffling diadromous fishes.</p> 
+<p style="text-align: justify;">I am a Postdoctoral Scholar at UC Santa Barbara, working with [Rafael J.P. Schmitt](https://es.ucsb.edu/people/rafael-jp-schmitt) on optimizing sustainable hydropower and riverine connectivity. In October 2026, I will be joining [Albert Ruhí](https://ruhilab.org/) at UC Berkeley as a [Croucher Fellow](https://croucher.org.hk/en/fellows-and-scholars/jeffery-chan?page=1) to investigate how extreme events are reshuffling diadromous fishes. Previously, I earned my PhD working with [David Dudgeon](https://www.biosch.hku.hk/ecology/dd.htm) and [Jia Huan Liew](https://discover.utas.edu.au/JiaHuan.Liew) on the impacts of fragmentation by dams on diadromous species at The University of Hong Kong. Prior to my academic journey I founded [Freshwater Collective](https://www.freshwatercollective.org), a conservation organization with the aim of bridging the gap between research and education of freshwater ecology.</p> 
 
-<p style="text-align: justify;">Before coming to the US, I had the privilege of working with [David Dudgeon](https://www.biosch.hku.hk/ecology/dd.htm) and [Jia Huan Liew](https://discover.utas.edu.au/JiaHuan.Liew) on the impacts of fragmentation by dams on diadromous species during my PhD at The University of Hong Kong. Preceding this, I earned an MRes in Tropical Forest Ecology from Imperial College London examining  multiple-stressor interactions on ecosystem functioning using pond mesocosms (I was landlocked during covid). Prior to my academic journey I founded [Freshwater Collective](https://www.freshwatercollective.org), a conservation organization with the aim of bridging the gap between research and education of freshwater ecology.</p> 
+<div style="display: inline-block; background-color: #f0f0f0; padding: 3px 4px; border-radius: 0px;">
+My [Full CV](files/Jeffery_Chan_CV_Mar2026.pdf)  (updated Mar 2026)</div>
 
-My [Full CV](files/Jeffery_Chan_CV_Mar2026.pdf) (updated Mar 2026)
-
-## Current appointments
+### Current appointments
 - From Oct 2026:  Croucher Fellow, [UC Berkeley](https://www.berkeley.edu/), USA
 - 2026 – Present: Postdoctoral Scholar, [UC Santa Barbara](https://www.ucsb.edu/), USA
 - 2026 – Present: Affiliated Fellow, [Lingnan University](https://www.ln.edu.hk/scienceunit), Hong Kong 
 - 2019 – Present: Founder, [Freshwater Collective](https://www.freshwatercollective.org), Hong Kong
 
-## Education
+### Education
 - 2022 – 2026: PhD, The University of Hong Kong
 - 2020 – 2021: MRes, Imperial College London
 - 2015 – 2019: BSc, The University of Hong Kong
 
-## Experience
-- 2025 – 2025: Visiting Researcher, [National University of Singapore](https://blog.nus.edu.sg/fiblab/)
-- 2025 – 2025: Visiting Researcher, [Lee Kong Chian Natural History Museum](https://lkcnhm.nus.edu.sg/), Singapore
-- 2022 – 2025: Research Officer, [Lingnan University](https://www.ln.edu.hk/scienceunit), Hong Kong
-- 2021 – 2021: Technical Assistant, [The University of Hong Kong](https://www.hku.hk/)
-- 2020 – 2021: Research Associate, [Imperial College London](https://www.imperial.ac.uk/), United Kingdom
-- 2018 – 2020: Assistant Ecologist, [aec ltd. (now Aurecon Group)](https://www.aurecongroup.com/about/latest-news/2022/november/aec-acquisition-biodiversity-advisory), Hong Kong
-
-
-
-
 :::
+
+
