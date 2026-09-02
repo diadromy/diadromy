@@ -20,6 +20,8 @@ Notes: \* corresponding author(s); <sup>#</sup> graduate student advisee led
 
 
 ## Published/in press papers
+**10.** **Chan\*, J.C.F.**, Low, B.W., Lau\*, A., Rheindt, F.E., Dudgeon, D. & Liew\*, J.H. [Contrasting patterns of genetic isolation among diadromous, landlocked, and non-migratory goby populations](https://onlinelibrary.wiley.com/doi/10.1111/mec.70534). ***Molecular Ecology***, 35(17), e70534.
+
 **9.** **Chan\*, J.C.F.**, Liew\*, J.H. & Dudgeon, D. (2026). [Conservation of tropical and subtropical marine-freshwater migrants for ecosystem services](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(26)00048-0). ***Trends in Ecology & Evolution***, 41(5), 369–372.  
 
 **8.** Ho\*<sup>#</sup>, S.C.L., **Chan, J.C.F.**, Lee, W.H., Sung, Y.H. & Liew\*, J.H. (2026) [Highlighting the species diversity, pricing trends, and conservation concerns in a major ornamental fish hub](https://www.cambridge.org/core/journals/oryx/article/species-diversity-pricing-trends-and-conservation-concerns-in-a-major-ornamental-fish-hub/A727B6FE4C85D5DDA4F4A5014F84CF47). ***Oryx***.
@@ -34,14 +36,11 @@ Notes: \* corresponding author(s); <sup>#</sup> graduate student advisee led
 
 **3.** Chow, L.H., **Chan, J.C.F.** & Tsang\*, L.M. (2024). [*Caridina ngankeeae* sp. nov., a new species of freshwater shrimp (Decapoda: Caridea: Atyidae) from Hong Kong](https://mapress.com/zt/article/view/zootaxa.5476.1.7). ***Zootaxa***, 5476(1), 44–50.
 
-**2.** **Chan\*, J.C.F.**, Tsang, A.H.F., Yau, S.-m., Hui, T.C.H., Lau, A., Tan, H.H., Low, B.W., Dudgeon, D & Liew J.H. (2023). [The non-native freshwater fishes of Hong Kong: diversity, distributions,
-and origins](https://www.researchgate.net/profile/Jeffery-Chan-5/publication/368712633_The_non-native_freshwater_fishes_of_Hong_Kong_diversity_distributions_and_origins/links/63f649af0d98a97717ad57c2/The-non-native-freshwater-fishes-of-Hong-Kong-diversity-distributions-and-origins.pdf). ***Raffles Bulletin of Zoology***, 71, 128–168.
+**2.** **Chan\*, J.C.F.**, Tsang, A.H.F., Yau, S.-m., Hui, T.C.H., Lau, A., Tan, H.H., Low, B.W., Dudgeon, D & Liew J.H. (2023). [The non-native freshwater fishes of Hong Kong: diversity, distributions, and origins](https://www.researchgate.net/profile/Jeffery-Chan-5/publication/368712633_The_non-native_freshwater_fishes_of_Hong_Kong_diversity_distributions_and_origins/links/63f649af0d98a97717ad57c2/The-non-native-freshwater-fishes-of-Hong-Kong-diversity-distributions-and-origins.pdf). ***Raffles Bulletin of Zoology***, 71, 128–168.
 
 **1.** Chow, L.H., **Chan, J.C.F.** & Tsang\*, L.M. (2022). [A synopsis of *Macrobrachium* Spence Bate, 1868 (Decapoda: Caridea: Palaemonidae) from Hong Kong, with description of a new species](https://academic.oup.com/jcb/article-abstract/42/3/ruac039/6656155). ***Journal of Crustacean Biology***, 42(3), ruac039.
 
 ## In revision/review/prep
-
-**Chan\*, J.C.F.**, Low, B.W., Lau, A., Rheindt, F.E., Dudgeon, D. & Liew\*, J.H. Contrasting patterns of genetic isolation among diadromous, landlocked, and non-migratory goby populations. In revision at ***Molecular Ecology***.
 
 Almeida, R.M., Arantes, C.C., Bhattarai, S., Bunnak, P., Cardoso, S.J., **Chan, J.C.F.**, Kamal Chowdhury, A.F.M., Del Claro, A.T.S., Doria, C.R.C., Fluet-Chouinard, E., Galelli, S., Garrett, K., Heilpern, S., Herrera-R, G.A., Kelman, R., Kennedy, K.D.M., Knaus, M., Laufer, J., Li, Z., McIntyre, P.B., McManamay, R.A., Miqueleiz, I., Miranda, M., Opperman, J.J., Pacheco, F.S., Schmitt, R.J.P., Sethi, S.A., Thomas, S., Upadhyay, Y., Valerio, A., Wild, T.B., Wilcox, A., Zec, M., Gomes, C.P., Flecker, A.S. Decoupling hydropower growth from adverse impacts on river systems. In revision at ***Nature Reviews Clean Technology***.
 

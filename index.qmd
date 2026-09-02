@@ -41,6 +41,10 @@ Read more about me [here](about.qmd).
 
 <div style="background-color: #f0f0f0; padding: 12px; max-height: 300px; overflow-y: auto; text-align: justify;">
 ::: scrolling
+**August 2026 » Final chapter of my PhD published in *Molecular Ecology*!** My first (and likely only ever) first-authored [paper](https://onlinelibrary.wiley.com/doi/10.1111/mec.70534) on population genetics–looking into the genetic consequences of former diadromous gobiid populations that have become landlocked above dams. 
+
+**July 2026 » I joined the IUCN SSC Freshwater Fish Specialist Group as a Commission Member!** It's been a goal of mine to contribute to species assessments, and I'm delighted to have the opportunity to do my part–especially on diadromous fishes!
+
 **June 2026 » Feature article of my diadromous journey (and TREE article).** Croucher News Team wrote up a brilliant [article](https://croucher.org.hk/en/news/the-tropical-migrants-that-conservation-forgot) on the importance of diadromous migrants, why those in the tropics need our help, and my conservation journey with them. I should use it as a self-introduction from now on! 
 
 **May 2026 » I successfully defended my PhD!** I flew back to Hong Kong for a week-long whirlwind to complete my PhD on May 13th. 
